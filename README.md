@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @JCaldonCoding
+- 👀 I’m interested in learning the beginnings of code, with the hope of being able to process RNAseq data
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: email at jcaldon580@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a lovely cat called Gerdy
